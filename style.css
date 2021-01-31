@@ -1,0 +1,60 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family: sans-serif;
+}
+nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar
+{
+    background-image: linear-gradient(to right, #EEF8FF, #A4DAFE);
+}
+.navbar-brand img
+{
+    width: 25%;
+    height: 25%;
+
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    color: #fff !important;
+}
+#banner
+{
+    background-image: linear-gradient(to right, #EEF8FF, #A4DAFE);
+    color: black;
+    padding-top: 5%;
+}
+.promo-title
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+    color: black;
+}
+.bottom-img
+{
+    width: 100%;
+
+}
+#footer
+{
+    background-image: linear-gradient(to right, #EEF8FF, #A4DAFE);
+    color:white;
+}
+.footer-img
+{
+    width: 100%;
+}
