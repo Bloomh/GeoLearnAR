@@ -1,4 +1,4 @@
-#GeoLearnAR
+# GeoLearnAR
 
 ## Inspiration 
 During the pandemic, student absences have doubled, totaling to 3 million kids who aren’t attending school nationwide. Why? With the shift to virtual school, it has been harder for teachers to create an engaging learning environment and for students to stay focused on class while at home. So, we created GeoLearnAR, a web app that transforms learning by leveraging the immersive experience of augmented reality and associative learning techniques to keep students engaged at home. 
